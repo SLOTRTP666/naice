@@ -122,7 +122,7 @@ function myTimer() {
     const _0x2d3b8c = Math[_0x340215(0x1f7)](Math[_0x340215(0x1b0)]() * nm[_0x340215(0x2af)]),
         _0x299033 = Math['floor'](Math[_0x340215(0x1b0)]() * pp['length']);
     Snackbar['show']({
-        'text': pp[_0x299033] + '\x20telah\x20berhasil\x20WD\x20sebesar\x20' +nm[_0x2d3b8c]+'\x20Dari\x20MAXWINSLOT',
+        'text': pp[_0x299033] + '\x20telah\x20berhasil\x20WD\x20sebesar\x20' +nm[_0x2d3b8c]+'\x20Dari\x20SLOTRTP666',
         'pos': 'bottom-left',
         'showAction': ![],
         'backgroundColor': _0x340215(0x28d),
